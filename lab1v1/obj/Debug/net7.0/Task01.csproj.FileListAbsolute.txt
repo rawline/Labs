@@ -1,0 +1,14 @@
+C:\Users\rawline\source\repos\Demo\Demo\bin\Debug\net7.0\Task01.exe
+C:\Users\rawline\source\repos\Demo\Demo\bin\Debug\net7.0\Task01.deps.json
+C:\Users\rawline\source\repos\Demo\Demo\bin\Debug\net7.0\Task01.runtimeconfig.json
+C:\Users\rawline\source\repos\Demo\Demo\bin\Debug\net7.0\Task01.dll
+C:\Users\rawline\source\repos\Demo\Demo\bin\Debug\net7.0\Task01.pdb
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\Task01.AssemblyInfoInputs.cache
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\Task01.AssemblyInfo.cs
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\Task01.csproj.CoreCompileInputs.cache
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\Task01.dll
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\refint\Task01.dll
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\Task01.pdb
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\Task01.genruntimeconfig.cache
+C:\Users\rawline\source\repos\Demo\Demo\obj\Debug\net7.0\ref\Task01.dll
