@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VRNIfVElEp4dI/Y4R5D84fTb98JFyoRZzEbNgwklHTDQL2iTYewFe4agKNFReDOFprk02aHXrsXq5QvrnNX3gw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\rawline\\source\\repos\\Demo\\TestProgram\\TestProgram.csproj",
+  "dgSpecHash": "oDHt51UTfIfSa5fPbwNsk/bfJXd3n2KUAOn4HcowICWZC/+F54fNkj6E+6hB0K6B4gOQvuQbu0l+xFVBp0LJLw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\rawline\\Desktop\\6\\Labs\\lab1Tests\\TestProgram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rawline\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\rawline\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
@@ -94,5 +94,15 @@
     "C:\\Users\\rawline\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
     "C:\\Users\\rawline\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\rawline\\Desktop\\6\\Labs\\Demo\\Task01.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\rawline\\Desktop\\6\\Labs\\Demo\\Task01.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

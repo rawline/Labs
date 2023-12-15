@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\rawline\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rawline\\Desktop\\6\\Labs\\lab1v1\\Task01.csproj",
-      "projectName": "Task01",
-      "projectPath": "C:\\Users\\rawline\\Desktop\\6\\Labs\\lab1v1\\Task01.csproj",
+      "projectUniqueName": "C:\\Users\\rawline\\source\\repos\\lab5\\lab5.csproj",
+      "projectName": "lab5",
+      "projectPath": "C:\\Users\\rawline\\source\\repos\\lab5\\lab5.csproj",
       "packagesPath": "C:\\Users\\rawline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rawline\\Desktop\\6\\Labs\\lab1v1\\obj\\",
+      "outputPath": "C:\\Users\\rawline\\source\\repos\\lab5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rawline\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net7.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -59,6 +59,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"

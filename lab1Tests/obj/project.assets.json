@@ -1708,16 +1708,6 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
-      },
-      "Task01/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Task01.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Task01.dll": {}
-        }
       }
     }
   },
@@ -5510,17 +5500,12 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "Task01/1.0.0": {
-      "type": "project",
-      "path": "../Demo/Task01.csproj",
-      "msbuildProject": "../Demo/Task01.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "C:\\Users\\rawline\\Desktop\\6\\Labs\\Demo\\Task01.csproj",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
-      "Task01 >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5532,11 +5517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rawline\\source\\repos\\Demo\\TestProgram\\TestProgram.csproj",
+      "projectUniqueName": "C:\\Users\\rawline\\Desktop\\6\\Labs\\lab1Tests\\TestProgram.csproj",
       "projectName": "TestProgram",
-      "projectPath": "C:\\Users\\rawline\\source\\repos\\Demo\\TestProgram\\TestProgram.csproj",
+      "projectPath": "C:\\Users\\rawline\\Desktop\\6\\Labs\\lab1Tests\\TestProgram.csproj",
       "packagesPath": "C:\\Users\\rawline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rawline\\source\\repos\\Demo\\TestProgram\\obj\\",
+      "outputPath": "C:\\Users\\rawline\\Desktop\\6\\Labs\\lab1Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rawline\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5553,8 +5538,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rawline\\source\\repos\\Demo\\Demo\\Task01.csproj": {
-              "projectPath": "C:\\Users\\rawline\\source\\repos\\Demo\\Demo\\Task01.csproj"
+            "C:\\Users\\rawline\\Desktop\\6\\Labs\\Demo\\Task01.csproj": {
+              "projectPath": "C:\\Users\\rawline\\Desktop\\6\\Labs\\Demo\\Task01.csproj"
             }
           }
         }
@@ -5609,5 +5594,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\rawline\\Desktop\\6\\Labs\\Demo\\Task01.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\rawline\\Desktop\\6\\Labs\\Demo\\Task01.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
